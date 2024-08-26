@@ -21,7 +21,7 @@ export default {
           media_id: 'ap123c73-f703-4b16-847d-f61bae053a03',
           post_id: '397236d5-0097-4ade-845f-24e429ef0e034',
           media_url:
-            'https://static.wixstatic.com/media/9d8ed5_6b6be1c97d1949c2b48bbdd68069ee35~mv2.jpg/v1/fill/w_1000,h_563,al_c/9d8ed5_6b6be1c97d1949c2b48bbdd68069ee35~mv2.jpg',
+            'https://i.ytimg.com/vi/2enD3HgYUMM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gPSg3MA8=&rs=AOn4CLCkS6UDDJagujj93wjcZVkYnqr8zg',
           media_type: 'image'
         },
         {
@@ -47,6 +47,43 @@ export default {
           media_id: 'ap123c73-f703-4b16-847d-f61bae053a07',
           post_id: '397236d5-0097-4ade-845f-24e429ef0e037',
           media_url: 'https://acrossmag.com/wp-content/uploads/2022/11/zoro-roronoa-2022-birthday-one-piece.jpg',
+          media_type: 'image'
+        },
+        {
+          media_id: 'ap123c73-f703-4b16-847d-f61bae053a010',
+          post_id: '397236d5-0097-4ade-845f-24e429ef0e036-ka',
+          media_url: 'https://images4.alphacoders.com/135/1352216.png',
+          media_type: 'image'
+        },
+        {
+          media_id: 'ap123c73-f703-4b16-847d-f61bae053a011',
+          post_id: '397236d5-0097-4ade-845f-24e429ef0e036',
+          media_url: 'https://images5.alphacoders.com/135/thumb-1920-1355115.jpeg',
+          media_type: 'image'
+        },
+        {
+          media_id: 'ap123c73-f703-4b16-847d-f61baeu3a011',
+          post_id: '397236d5-0097-4ade-845f-24e429ef0e071',
+          media_url:
+            'https://res.cloudinary.com/dswainylr/video/upload/v1724661392/default/Y2meta.app-VIDEO_10s-_1080p_gcqrl0.mp4',
+          media_type: 'video'
+        },
+        {
+          media_id: 'ap123c73-f703-4b16-847d-iao01',
+          post_id: '397236d5-0097-4ade-845f-2u8429ef0e01',
+          media_url: 'https://images.alphacoders.com/129/1297729.jpg',
+          media_type: 'image'
+        },
+        {
+          media_id: '397236d5-0097-4ade-845f-2u8429ef0e02',
+          post_id: '397236d5-0097-4ade-845f-2u8429ef0e02',
+          media_url: 'https://images5.alphacoders.com/132/1325614.jpeg',
+          media_type: 'image'
+        },
+        {
+          media_id: '397236d5-0097-4ade-845f-2u8429ef0e03',
+          post_id: '397236d5-0097-4ade-845f-2u8429ef0e04',
+          media_url: 'https://www.hdwallpapers.in/download/green_hair_roronoa_zoro_hd_one_piece_2-2560x1440.jpg',
           media_type: 'image'
         }
       ],
